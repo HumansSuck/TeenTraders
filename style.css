@@ -119,8 +119,8 @@ body{
 }
 
 #total-price {
-    font-size: 1.2em;
-    margin-top: 10px;
+    font-size: 1.3em;
+    margin-top: 14px;
     font-weight: bold;
     text-align: right;
 }
@@ -136,7 +136,7 @@ body{
     margin-bottom: 30px; 
     align-items: right;
     position: relative;
-    left: 1010px;
+    left: 1380px;
 }
 
 #header {
